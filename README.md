@@ -3,35 +3,19 @@
 <p align="center">
   <img src="assets/绪山真寻2.jpg" width="200"/>
 </p>
+嗨~ 我是 Yunuo ，一个会敲代码的技术游侠  
+技能🌳：Python  ⚡| Mysql 💻| Scrapy ✨
 
-嗨~ 我是 ****，一个热爱编程的程序员 👾💻  
-我的日常：Python 🐍 | Go 🏎️ | JavaScript ⚡
+┌────────────────────────────┐
 
----
+ │  Python 小法师           │       爬虫小精灵         │ 
 
-## 📅 我的 GitHub 活动
+└────────────────────────────┘
 
-![GitHub Contributions](https://ghchart.rshah.org/spiderx-zhuyi)
-
----
-
-## ⚡ 技能 & 工具
-
-| 技能 | 熟练度 |
-|------|--------|
-| Python 🐍 | ★★★★★ |
-| Golang | ★★★★☆ |
-| FastAPI ⚡ | ★★★★☆ |
-| Gin ⚡ | ★★★★☆ |
-| React ⚡ | ★★★★☆ |
-| Scrapy | ★★★★☆ |
-| SQL 🗄️ | ★★★★☆ |
-
-## 
-
+日常状态💭：代码世界里蹦蹦跳跳  🤸‍♂️
 
 ---
 
 ## 📬 联系我
 
-- Email: 
+- Email: 2977615769@qq.com
