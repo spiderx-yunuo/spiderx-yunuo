@@ -1,7 +1,7 @@
 # 🌸 欢迎来到我的 GitHub 🌸
 
 <p align="center">
-  <img src="assets/绪山真寻2.jpg" width="200"/>
+  <img src="assets/猫和老鼠.jpg" width="200"/>
 </p>
 嗨~ 我是 Yunuo ，一个会敲代码的技术游侠  🤖
 
